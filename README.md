@@ -15,13 +15,10 @@ This page will tell you to how to install the launcher, customizing the launcher
 - Click OK a few times, and it should install the skin.
 
 ## Customizing
-*Customizing Liner's Launcher is easy.*
-
-- To change your name (or your username)
-**Open Rainmeter > Username >  `UsernameLiner'sLauncher.ini` > Click Edit > Find the word `Text=Hello, Michael` > Change it to your name.**
+*Customizing Liner's Launcher is easy. Note: You don't need to change your name or your username in `UsernameLiner'sLauncher.ini`*
 
 - To change the font face
 **Open Rainmeter > Choose Username or Date & Time > Open the .ini file > Find `FontFace` > Choose your font**
-The default `FontFace` is set to **Uni Sans Heavy Caps**.
+The default `FontFace` is set to **Sanseriffic.*
 
 Thank you for using Liner's Launcher! :wink:
