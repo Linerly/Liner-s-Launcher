@@ -3,10 +3,10 @@ Update=1000
 
 [Metadata]
 Name=Date & Time
-Author=Liner
-Information=Date & Time for Liner's Launcher.
+Author=Linerly
+Information=Date & Time for Linerly's Launcher.
 License=
-Version=0.2
+Version=
 
 [MeasureDateTime]
 Measure=Time
@@ -16,6 +16,6 @@ Format=%A, %B %#d, %Y %#I:%M %p
 Meter=String
 MeasureName=MeasureDateTime
 AntiAlias=1
-FontColor=164, 164, 164
-FontFace=Sanseriffic
+FontColor=96,125,139
+FontFace=Quicksand Bold
 FontSize=25
