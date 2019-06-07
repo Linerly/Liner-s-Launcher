@@ -1,6 +1,4 @@
- ![Liner's Launcher Header](https://imgur.com/ZgZ9SyZ.jpg)
-
- # Liner-s-Launcher
+ # Linerly-Launcher
 
 This is Linerly's Launcher for Rainmeter!
 This page will tell you to how to install the launcher, customizing the launcher and more...
@@ -21,4 +19,4 @@ This page will tell you to how to install the launcher, customizing the launcher
 **Open Rainmeter > Choose Username or Date & Time > Open the .ini file > Find `FontFace` > Choose your font**
 The default `FontFace` is set to **Sanseriffic.*
 
-Thank you for using Liner's Launcher! :wink:
+Thank you for using Linerly's Launcher! :wink:
