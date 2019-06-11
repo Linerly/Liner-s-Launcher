@@ -17,6 +17,6 @@ This page will tell you to how to install the launcher, customizing the launcher
 
 - To change the font face
 **Open Rainmeter > Choose Username or Date & Time > Open the .ini file > Find `FontFace` > Choose your font**
-The default `FontFace` is set to **Sanseriffic.*
+The default `FontFace` is set to **Quicksand Bold.**
 
 Thank you for using Linerly's Launcher! :wink:
