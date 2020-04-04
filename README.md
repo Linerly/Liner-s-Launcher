@@ -6,9 +6,9 @@ This page will tell you to how to install the launcher, customizing the launcher
 ## Installing
 *First if you haven't do it, download and install Rainmeter by clicking [here](https://www.rainmeter.net/).*
 
-- Go to this link to download the launcher by clicking [here]().
+- Go to this link to download the launcher by clicking [here](https://github.com/Linerly/Linerly-Launcher/releases).
 - Once it's downloaded, open the file `Linerly's-Launcher_X.X.rmskin`
-*Note: X.X means the version, e.g. version 0.1*
+*Note: X.X means the version, e.g. version 0.2*
 
 - Click OK a few times, and it should install the skin.
 
